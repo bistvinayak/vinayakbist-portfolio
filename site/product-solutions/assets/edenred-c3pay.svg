@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+  <title id="title">Edenred and C3Pay visual identity</title>
+  <desc id="desc">A clean company identity card for the Adaptive Trust case study.</desc>
+  <rect width="720" height="360" rx="34" fill="#fffdf8"/>
+  <rect x="30" y="30" width="660" height="300" rx="28" fill="#F3F2EE" stroke="#E1D9CD" stroke-width="2"/>
+  <circle cx="160" cy="178" r="78" fill="#E22D2D"/>
+  <path d="M122 177c18-38 56-58 102-59-15 45-51 75-102 59Z" fill="#fffdf8" opacity=".94"/>
+  <path d="M128 205c35 14 72 6 104-24-36-7-75 1-104 24Z" fill="#fffdf8" opacity=".76"/>
+  <text x="280" y="152" fill="#1C2321" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">Edenred</text>
+  <text x="282" y="206" fill="#35506B" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="700">C3Pay</text>
+  <text x="282" y="250" fill="#65716d" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">Payroll cards · compliance · trust</text>
+  <path d="M282 272h250" stroke="#C97A2E" stroke-width="6" stroke-linecap="round"/>
+</svg>

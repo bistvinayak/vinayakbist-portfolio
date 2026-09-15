@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+  <title id="title">Solace visual identity</title>
+  <desc id="desc">A clean company identity card for the Navigation Layer case study.</desc>
+  <rect width="720" height="360" rx="34" fill="#fffdf8"/>
+  <rect x="30" y="30" width="660" height="300" rx="28" fill="#F3F2EE" stroke="#D8E0E4" stroke-width="2"/>
+  <g transform="translate(120 98)">
+    <circle cx="82" cy="82" r="78" fill="#35506B"/>
+    <path d="M36 86c30-38 66-56 112-54-10 48-42 82-95 98 24 12 55 11 93-4-22 32-57 49-105 50 8-31 22-61 43-90Z" fill="#fffdf8"/>
+    <circle cx="116" cy="68" r="13" fill="#C97A2E"/>
+  </g>
+  <text x="300" y="166" fill="#1C2321" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="800">Solace</text>
+  <text x="303" y="218" fill="#35506B" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="700">The Navigation Layer</text>
+  <text x="303" y="260" fill="#65716d" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">AI copilot · guidance · activation</text>
+  <path d="M303 282h250" stroke="#C97A2E" stroke-width="6" stroke-linecap="round"/>
+</svg>
