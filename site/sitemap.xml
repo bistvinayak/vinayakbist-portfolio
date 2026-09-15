@@ -12,4 +12,16 @@
     <loc>https://vinayakbist.com/projects/arjun/</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://vinayakbist.com/product-solutions/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vinayakbist.com/product-solutions/case-study-c3pay.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vinayakbist.com/product-solutions/case-study-solace.html</loc>
+    <priority>0.7</priority>
+  </url>
 </urlset>
