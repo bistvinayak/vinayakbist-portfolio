@@ -2,26 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vinayakbist.com/</loc>
+    <lastmod>2026-09-21</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://vinayakbist.com/projects/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://vinayakbist.com/projects/chanakya/</loc>
+    <lastmod>2026-09-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vinayakbist.com/projects/arjun/</loc>
+    <lastmod>2026-09-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vinayakbist.com/product-solutions/</loc>
+    <lastmod>2026-09-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vinayakbist.com/product-solutions/case-study-c3pay.html</loc>
+    <lastmod>2026-09-21</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vinayakbist.com/product-solutions/case-study-solace.html</loc>
+    <lastmod>2026-09-21</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
